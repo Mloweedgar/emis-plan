@@ -1,0 +1,380 @@
+[
+  {
+    "resource": "Activity",
+    "action": "delete",
+    "description": "Delete activity",
+    "wildcard": "activity:delete"
+  },
+  {
+    "resource": "Activity",
+    "action": "download",
+    "description": "Download activity",
+    "wildcard": "activity:download"
+  },
+  {
+    "resource": "Activity",
+    "action": "edit",
+    "description": "Edit activity",
+    "wildcard": "activity:edit"
+  },
+  {
+    "resource": "Activity",
+    "action": "create",
+    "description": "Create activity",
+    "wildcard": "activity:create"
+  },
+  {
+    "resource": "Employee",
+    "action": "edit",
+    "description": "Edit employee",
+    "wildcard": "employee:edit"
+  },
+  {
+    "resource": "Activity",
+    "action": "share",
+    "description": "Share activity",
+    "wildcard": "activity:share"
+  },
+  {
+    "resource": "Activity",
+    "action": "print",
+    "description": "Print activity",
+    "wildcard": "activity:print"
+  },
+  {
+    "resource": "Activity",
+    "action": "export",
+    "description": "Export activity",
+    "wildcard": "activity:export"
+  },
+  {
+    "resource": "Activity",
+    "action": "import",
+    "description": "Import activity",
+    "wildcard": "activity:import"
+  },
+  {
+    "resource": "Permission",
+    "action": "share",
+    "description": "Share permission",
+    "wildcard": "permission:share"
+  },
+  {
+    "resource": "Employee",
+    "action": "import",
+    "description": "Import employee",
+    "wildcard": "employee:import"
+  },
+  {
+    "resource": "Organization",
+    "action": "print",
+    "description": "Print organization",
+    "wildcard": "organization:print"
+  },
+  {
+    "resource": "Permission",
+    "action": "download",
+    "description": "Download permission",
+    "wildcard": "permission:download"
+  },
+  {
+    "resource": "Organization",
+    "action": "delete",
+    "description": "Delete organization",
+    "wildcard": "organization:delete"
+  },
+  {
+    "resource": "User",
+    "action": "import",
+    "description": "Import user",
+    "wildcard": "user:import"
+  },
+  {
+    "resource": "Role",
+    "action": "edit",
+    "description": "Edit role",
+    "wildcard": "role:edit"
+  },
+  {
+    "resource": "User",
+    "action": "create",
+    "description": "Create user",
+    "wildcard": "user:create"
+  },
+  {
+    "resource": "Role",
+    "action": "view",
+    "description": "View role",
+    "wildcard": "role:view"
+  },
+  {
+    "resource": "Task",
+    "action": "export",
+    "description": "Export task",
+    "wildcard": "task:export"
+  },
+  {
+    "resource": "Permission",
+    "action": "delete",
+    "description": "Delete permission",
+    "wildcard": "permission:delete"
+  },
+  {
+    "resource": "Employee",
+    "action": "export",
+    "description": "Export employee",
+    "wildcard": "employee:export"
+  },
+  {
+    "resource": "Organization",
+    "action": "create",
+    "description": "Create organization",
+    "wildcard": "organization:create"
+  },
+  {
+    "resource": "Activity",
+    "action": "view",
+    "description": "View activity",
+    "wildcard": "activity:view"
+  },
+  {
+    "resource": "Organization",
+    "action": "import",
+    "description": "Import organization",
+    "wildcard": "organization:import"
+  },
+  {
+    "resource": "Task",
+    "action": "view",
+    "description": "View task",
+    "wildcard": "task:view"
+  },
+  {
+    "resource": "Role",
+    "action": "download",
+    "description": "Download role",
+    "wildcard": "role:download"
+  },
+  {
+    "resource": "Role",
+    "action": "share",
+    "description": "Share role",
+    "wildcard": "role:share"
+  },
+  {
+    "resource": "Task",
+    "action": "edit",
+    "description": "Edit task",
+    "wildcard": "task:edit"
+  },
+  {
+    "resource": "Permission",
+    "action": "print",
+    "description": "Print permission",
+    "wildcard": "permission:print"
+  },
+  {
+    "resource": "Permission",
+    "action": "create",
+    "description": "Create permission",
+    "wildcard": "permission:create"
+  },
+  {
+    "resource": "Employee",
+    "action": "view",
+    "description": "View employee",
+    "wildcard": "employee:view"
+  },
+  {
+    "resource": "Employee",
+    "action": "create",
+    "description": "Create employee",
+    "wildcard": "employee:create"
+  },
+  {
+    "resource": "Organization",
+    "action": "export",
+    "description": "Export organization",
+    "wildcard": "organization:export"
+  },
+  {
+    "resource": "User",
+    "action": "export",
+    "description": "Export user",
+    "wildcard": "user:export"
+  },
+  {
+    "resource": "Task",
+    "action": "share",
+    "description": "Share task",
+    "wildcard": "task:share"
+  },
+  {
+    "resource": "Role",
+    "action": "delete",
+    "description": "Delete role",
+    "wildcard": "role:delete"
+  },
+  {
+    "resource": "Role",
+    "action": "print",
+    "description": "Print role",
+    "wildcard": "role:print"
+  },
+  {
+    "resource": "Organization",
+    "action": "download",
+    "description": "Download organization",
+    "wildcard": "organization:download"
+  },
+  {
+    "resource": "Permission",
+    "action": "import",
+    "description": "Import permission",
+    "wildcard": "permission:import"
+  },
+  {
+    "resource": "Task",
+    "action": "download",
+    "description": "Download task",
+    "wildcard": "task:download"
+  },
+  {
+    "resource": "User",
+    "action": "view",
+    "description": "View user",
+    "wildcard": "user:view"
+  },
+  {
+    "resource": "Employee",
+    "action": "delete",
+    "description": "Delete employee",
+    "wildcard": "employee:delete"
+  },
+  {
+    "resource": "Task",
+    "action": "create",
+    "description": "Create task",
+    "wildcard": "task:create"
+  },
+  {
+    "resource": "User",
+    "action": "edit",
+    "description": "Edit user",
+    "wildcard": "user:edit"
+  },
+  {
+    "resource": "Employee",
+    "action": "print",
+    "description": "Print employee",
+    "wildcard": "employee:print"
+  },
+  {
+    "resource": "Employee",
+    "action": "share",
+    "description": "Share employee",
+    "wildcard": "employee:share"
+  },
+  {
+    "resource": "Permission",
+    "action": "edit",
+    "description": "Edit permission",
+    "wildcard": "permission:edit"
+  },
+  {
+    "resource": "Permission",
+    "action": "view",
+    "description": "View permission",
+    "wildcard": "permission:view"
+  },
+  {
+    "resource": "Role",
+    "action": "export",
+    "description": "Export role",
+    "wildcard": "role:export"
+  },
+  {
+    "resource": "Organization",
+    "action": "share",
+    "description": "Share organization",
+    "wildcard": "organization:share"
+  },
+  {
+    "resource": "Role",
+    "action": "import",
+    "description": "Import role",
+    "wildcard": "role:import"
+  },
+  {
+    "resource": "User",
+    "action": "delete",
+    "description": "Delete user",
+    "wildcard": "user:delete"
+  },
+  {
+    "resource": "Task",
+    "action": "import",
+    "description": "Import task",
+    "wildcard": "task:import"
+  },
+  {
+    "resource": "Employee",
+    "action": "download",
+    "description": "Download employee",
+    "wildcard": "employee:download"
+  },
+  {
+    "resource": "User",
+    "action": "print",
+    "description": "Print user",
+    "wildcard": "user:print"
+  },
+  {
+    "resource": "Organization",
+    "action": "view",
+    "description": "View organization",
+    "wildcard": "organization:view"
+  },
+  {
+    "resource": "Organization",
+    "action": "edit",
+    "description": "Edit organization",
+    "wildcard": "organization:edit"
+  },
+  {
+    "resource": "Role",
+    "action": "create",
+    "description": "Create role",
+    "wildcard": "role:create"
+  },
+  {
+    "resource": "Task",
+    "action": "print",
+    "description": "Print task",
+    "wildcard": "task:print"
+  },
+  {
+    "resource": "Permission",
+    "action": "export",
+    "description": "Export permission",
+    "wildcard": "permission:export"
+  },
+  {
+    "resource": "Task",
+    "action": "delete",
+    "description": "Delete task",
+    "wildcard": "task:delete"
+  },
+  {
+    "resource": "User",
+    "action": "share",
+    "description": "Share user",
+    "wildcard": "user:share"
+  },
+  {
+    "resource": "User",
+    "action": "download",
+    "description": "Download user",
+    "wildcard": "user:download"
+  }
+]
